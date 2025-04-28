@@ -1,0 +1,5 @@
+# Created at 2025-04-28T16:02:16.362
+Boot Manifest-JAR contains absolute paths in classpath 'V:\IndusTraining\Assignments\Persist\IndusCustomerJdbcProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

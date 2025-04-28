@@ -1,0 +1,5 @@
+com\ramyakata\persist\dao\TestCustomerManagerDB.class
+com\ramyakata\persist\dao\TestCustomerPoolManager.class
+com\ramyakata\persist\dao\TestCustomer.class
+com\ramyakata\persist\dao\TestCustomerJdbc.class
+com\ramyakata\persist\dao\TestCustomerDB.class

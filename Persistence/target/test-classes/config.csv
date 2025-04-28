@@ -1,0 +1,2 @@
+dbms,serverName,portNumber,userName,password,schemaName,tableName
+mysql,127.0.0.1,3306,root,Taehyung@3031,student_example,test_customer

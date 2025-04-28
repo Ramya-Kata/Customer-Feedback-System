@@ -1,0 +1,26 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+/target/
+dependency-reduced-pom.xml
+.mvn/
+.settings/
+.project
+.classpath
+
+# IDE files
+/.idea/
+/*.iml
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore export files
+src/main/resources/exports/
+
